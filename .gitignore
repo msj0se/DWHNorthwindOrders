@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DWHNorthwindOrders/bin/Debug/net8.0
+/DWHNorthwindOrders/obj
+/.vs
